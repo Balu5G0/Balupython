@@ -1,0 +1,5 @@
+a=int(input('Enter'))
+b=int(input('enter'))
+print('Subtraction Value is', a-b)
+print('Multiplication Value is',a*b)
+print('Power Value is', a**b)
